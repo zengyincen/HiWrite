@@ -2,14 +2,7 @@
 
 ![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
 
-![](https://img.shields.io/github/stars/pandao/editor.md.svg)
-![](https://img.shields.io/github/forks/pandao/editor.md.svg)
-![](https://img.shields.io/github/tag/pandao/editor.md.svg)
-![](https://img.shields.io/github/release/pandao/editor.md.svg)
-![](https://img.shields.io/github/issues/pandao/editor.md.svg)
-![](https://img.shields.io/bower/v/editor.md.svg)
-
-**Editor.md** : The open source embeddable online markdown editor (component), based on CodeMirror & jQuery & Marked.
+**HiWrite** : The open source embeddable online markdown editor (component), based on CodeMirror & jQuery & Marked.
 
 ### Features
 
@@ -108,9 +101,6 @@ Using modular script loader :
 - [sequence-diagram.js](http://bramp.github.io/js-sequence-diagrams/ "sequence-diagram.js")
 - [Prefixes.scss](https://github.com/pandao/prefixes.scss "Prefixes.scss")
 
-#### Changes
-
-[Change logs](https://github.com/pandao/editor.md/blob/master/CHANGE.md)
 
 #### License
 
