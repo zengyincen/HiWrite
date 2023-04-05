@@ -1,4 +1,4 @@
-# Editor.md
+# HiWrite
 
 ![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
 
@@ -19,7 +19,7 @@
 
 --------
 
-**Editor.md** 是一款开源的、可嵌入的 Markdown 在线编辑器（组件），基于 CodeMirror、jQuery 和 Marked 构建。
+**HiWrite** 是一款开源的、可嵌入的 Markdown 在线编辑器（组件），基于 CodeMirror、jQuery 和 Marked 构建。
 
 ![editormd-screenshot](https://pandao.github.io/editor.md/examples/images/editormd-screenshot.png "editormd-screenshot")
 
