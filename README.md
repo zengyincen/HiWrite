@@ -2,7 +2,7 @@
 
 ![](https://github.com/zengyincen/HiWrite/raw/master/logo.png)
 
-![](https://img.shields.io/github/stars/zengyincen/HiWrite.svg) ![](https://img.shields.io/github/forks/zengyincen/HiWrite.svg) ![](https://img.shields.io/github/tag/zengyincen/HiWrite.svg)  ![](https://img.shields.io/github/issues/zengyincen/HiWrite.svg)
+![](https://img.shields.io/github/stars/zengyincen/HiWrite.svg)  ![](https://img.shields.io/github/tag/zengyincen/HiWrite.svg)  ![](https://img.shields.io/github/issues/zengyincen/HiWrite.svg)
 
 **HiWrite** 是一个基于 Editor.md 构建的为知笔记 Markdown 插件。
 
