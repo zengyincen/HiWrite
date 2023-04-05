@@ -1,13 +1,13 @@
-# Wiz.Editor.md
+# HiWrite
 
-![](https://github.com/akof1314/Wiz.Editor.md/raw/master/logo.png)
+![](https://github.com/zengyincen/HiWrite/raw/master/logo.png)
 
-![](https://img.shields.io/github/stars/akof1314/Wiz.Editor.md.svg) ![](https://img.shields.io/github/forks/akof1314/Wiz.Editor.md.svg) ![](https://img.shields.io/github/tag/akof1314/Wiz.Editor.md.svg) ![](https://img.shields.io/github/release/akof1314/Wiz.Editor.md.svg) ![](https://img.shields.io/github/issues/akof1314/Wiz.Editor.md.svg)
+![](https://img.shields.io/github/stars/zengyincen/HiWrite.svg) ![](https://img.shields.io/github/forks/zengyincen/HiWrite.svg) ![](https://img.shields.io/github/tag/zengyincen/HiWrite.svg)  ![](https://img.shields.io/github/issues/akof1314/Wiz.Editor.md.svg)
 
-**Wiz.Editor.md** 是一个基于 Editor.md 构建的为知笔记 Markdown 插件。
+**HiWrite** 是一个基于 Editor.md 构建的为知笔记 Markdown 插件。
 
 #### 在线示例
-[http://akof1314.github.io/Wiz.Editor.md/](http://akof1314.github.io/Wiz.Editor.md/)
+[http://zengyincen.github.io/HiWrite](http://zengyincen.github.io/HiWrite)
 
 #### 主要特性
 
@@ -37,11 +37,7 @@
 
 #### 更新日志
 
-[Change logs](https://github.com/akof1314/Wiz.Editor.md/blob/master/CHANGE.md)
-
-#### 支持开发
-
-[微信支持](https://github.com/akof1314/akof1314.github.io/raw/master/img/weixin.png)
+[Change logs](https://github.com/zengyincen/HiWrite/blob/master/CHANGE.md)
 
 #### License
 
